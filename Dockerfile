@@ -1,2 +1,2 @@
-FROM shashindrah/apache
+FROM hshar/webapp
 ADD ./devopsIQ /var/www/html/devopsIQ
